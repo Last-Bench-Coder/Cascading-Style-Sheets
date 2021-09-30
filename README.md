@@ -5,8 +5,8 @@ It makes web pages look good and presentable
 
 we can include CSS to any of our projects in three ways.
 
-# 1. Inline
-# 2. Internal
-# 3. External
+### 1. Inline
+### 2. Internal
+### 3. External
 
 
